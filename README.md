@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 📫 How to reach me **nirajandev0@gmail.com**
+- 📫 How to reach me **nirajansah1111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
