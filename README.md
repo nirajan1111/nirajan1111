@@ -2,8 +2,6 @@
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=nirajan1111&label=Profile%20views&color=0e75b6&style=flat" alt="nirajan1111" /> </p>
 
-- 🌱 I’m currently learning **React-Native**
-
 - 📫 How to reach me **nirajansah1111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
